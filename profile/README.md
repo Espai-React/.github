@@ -1,5 +1,5 @@
 <h1 align="center">Hola a tothom 👋</h1>
-<h3 align="center">Sóc en Jordi Llop (:yum:llopFilms) & Col·laboradors</h3>
+<h3 align="center">Sóc en Jordi Llop (😋 llopFilms) & Col·laboradors</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=espai-react&label=Visites Espai Angular&color=0e75b6&style=flat" alt="llopfilms Espai React" /> </p>
 
