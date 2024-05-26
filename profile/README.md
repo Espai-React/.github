@@ -1,7 +1,7 @@
 <h1 align="center">Hola a tothom 👋</h1>
 <h3 align="center">Sóc en Jordi Llop (😋 llopFilms) & Col·laboradors</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=espai-react&label=Visites Espai Angular&color=0e75b6&style=flat" alt="llopfilms Espai React" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=espai-react&label=Visites%20Espai%20React&color=0e75b6&style=flat" alt="llopfilms Espai React" /> </p>
 
 <div align="center">🌱 Aquest és un espai pel desenvolupament web en &nbsp;➖ &nbsp; React 
 </div>
