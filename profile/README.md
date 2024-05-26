@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=espai-react&label=Visites Espai Angular&color=0e75b6&style=flat" alt="llopfilms Espai React" /> </p>
 
-<div align="center">🌱 Aquest és un espai pel desenvolupament web en &nbsp;:heavy_minus_sign:&nbsp; React 
+<div align="center">🌱 Aquest és un espai pel desenvolupament web en &nbsp;➖ &nbsp; React 
 </div>
 <h3 align="center">Llenguatges i eines</h3>
 
